@@ -1,6 +1,7 @@
 # Hi, I'm Jitendra 👋 👨‍💻
 
 <!-- ![github-cover](https://user-images.githubusercontent.com/13834745/144031899-7282fdba-3dc9-4acb-8445-c2e7554ba6a8.png) -->
+
 ![github-cover](https://user-images.githubusercontent.com/13834745/144380203-166b8fa0-5b2e-4525-8561-41bbc8a72194.jpg)
 
 Module Lead at Happiest Minds Technologies Ltd. and in love with Javascript and ReactJS.
@@ -12,12 +13,14 @@ Module Lead at Happiest Minds Technologies Ltd. and in love with Javascript and 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 <code><img title="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img title="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img title="ReactJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img title="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img title="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Find me around the web 🌎:
 
+- <a a href="https://www.dotscreated.com/" target="_blank" >Blog</a>
 - <a a href="https://www.linkedin.com/in/onejeet/" target="_blank" >Linkedin</a>
 - <a a href="https://www.twitter.com/onejeet/" target="_blank" >Twitter</a>
 
