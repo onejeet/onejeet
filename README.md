@@ -1,6 +1,6 @@
+# Hi, I'm Jitendra 👋🏾 ![man-tech](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/man-technologist_1f468-200d-1f4bb.png)
+
 ![github-cover](https://user-images.githubusercontent.com/13834745/144031899-7282fdba-3dc9-4acb-8445-c2e7554ba6a8.png)
-
-
 
 <!--
 **onejeet/onejeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
