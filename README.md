@@ -20,9 +20,9 @@ Module Lead at Happiest Minds Technologies Ltd. and in love with Javascript and 
 
 ### Find me around the web 🌎:
 
-- <a a href="https://www.dotscreated.com/" target="_blank" >Blog</a>
-- <a a href="https://www.linkedin.com/in/onejeet/" target="_blank" >Linkedin</a>
-- <a a href="https://www.twitter.com/onejeet/" target="_blank" >Twitter</a>
+- <a href="https://www.dotscreated.com/" target="_blank" >Blog</a>
+- <a href="https://www.linkedin.com/in/onejeet/" target="_blank" >Linkedin</a>
+- <a href="https://www.twitter.com/onejeet/" target="_blank" >Twitter</a>
 
 <!--
 ## Let's connect -->
