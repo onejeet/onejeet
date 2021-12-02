@@ -1,6 +1,7 @@
 # Hi, I'm Jitendra 👋 👨‍💻
 
-![github-cover](https://user-images.githubusercontent.com/13834745/144031899-7282fdba-3dc9-4acb-8445-c2e7554ba6a8.png)
+<!-- ![github-cover](https://user-images.githubusercontent.com/13834745/144031899-7282fdba-3dc9-4acb-8445-c2e7554ba6a8.png) -->
+![github-cover](https://user-images.githubusercontent.com/13834745/144380203-166b8fa0-5b2e-4525-8561-41bbc8a72194.jpg)
 
 Module Lead at Happiest Minds Technologies Ltd. and in love with Javascript and ReactJS.
 
