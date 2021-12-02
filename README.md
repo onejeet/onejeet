@@ -16,6 +16,11 @@ Module Lead at Happiest Minds Technologies Ltd. and in love with Javascript and 
 <code><img title="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img title="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+### Find me around the web 🌎:
+
+- <a a href="https://www.linkedin.com/in/onejeet/" target="_blank" >Linkedin</a>
+- <a a href="https://www.twitter.com/onejeet/" target="_blank" >Twitter</a>
+
 <!--
 ## Let's connect -->
 
