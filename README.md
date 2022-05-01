@@ -23,7 +23,7 @@ Happy coder from the lands of India and in love with Javascript and ReactJS.
 - <a href="https://www.dotscreated.com/" target="_blank" >Blog</a>
 - <a href="https://www.linkedin.com/in/onejeet/" target="_blank" >Linkedin</a>
 - <a href="https://www.twitter.com/onejeet/" target="_blank" >Twitter</a>
-- - <a href="https://stackoverflow.com/users/5700303/onejeet" target="_blank" >Stack Overflow</a>
+- <a href="https://stackoverflow.com/users/5700303/onejeet" target="_blank" >Stack Overflow</a>
 
 <!--
 ## Let's connect -->
