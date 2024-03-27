@@ -1,4 +1,4 @@
-# Hi, I'm Jitendra 👋 👨‍💻
+# Hi, I'm Jeet 👋 👨‍💻
 
 <!-- ![github-cover](https://user-images.githubusercontent.com/13834745/144031899-7282fdba-3dc9-4acb-8445-c2e7554ba6a8.png) -->
 
